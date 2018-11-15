@@ -11,10 +11,15 @@
         "symfony/framework-bundle": "4.1.*",
         "symfony/monolog-bundle": "^3.3",
         "symfony/orm-pack": "^1.0",
+        "symfony/serializer": "4.1.*",
+        "symfony/serializer-pack": "^1.0",
         "symfony/yaml": "4.1.*"
     },
     "require-dev": {
-        "symfony/dotenv": "4.1.*"
+        "symfony/dotenv": "4.1.*",
+        "symfony/maker-bundle": "^1.9",
+        "symfony/profiler-pack": "^1.0",
+        "symfony/web-server-bundle": "4.1.*"
     },
     "config": {
         "preferred-install": {
